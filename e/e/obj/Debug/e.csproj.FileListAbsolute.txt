@@ -1,0 +1,5 @@
+C:\Users\work\source\repos\e\e\bin\Debug\e.dll
+C:\Users\work\source\repos\e\e\bin\Debug\e.pdb
+C:\Users\work\source\repos\e\e\obj\Debug\e.csprojAssemblyReference.cache
+C:\Users\work\source\repos\e\e\obj\Debug\e.dll
+C:\Users\work\source\repos\e\e\obj\Debug\e.pdb

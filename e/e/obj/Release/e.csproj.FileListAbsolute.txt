@@ -1,0 +1,5 @@
+C:\Users\work\source\repos\e\e\bin\Release\e.dll
+C:\Users\work\source\repos\e\e\bin\Release\e.pdb
+C:\Users\work\source\repos\e\e\obj\Release\e.csprojAssemblyReference.cache
+C:\Users\work\source\repos\e\e\obj\Release\e.dll
+C:\Users\work\source\repos\e\e\obj\Release\e.pdb
